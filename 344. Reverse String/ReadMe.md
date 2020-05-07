@@ -13,7 +13,7 @@ Two pointer Solution
 ```
 
 1. Recursive solution
- -Has O(n) time and space complexity due to the recursion stack
+-Has O(n) time and space complexity due to the recursion stack
 
 2. Two pointer solution
- -Has O(n) time complexity and O(1) space complexity, a constant space solution
+-Has O(n) time complexity and O(1) space complexity, a constant space solution
